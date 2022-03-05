@@ -1,4 +1,3 @@
-
 def candy(ratings):
     left = [1] * len(ratings)
     right = [1] * len(ratings)
